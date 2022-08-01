@@ -1,0 +1,30 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3D5E3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="349dp"
+            android:src="@drawable/halep" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Simona Halep (n. 27 septembrie 1991) este un jucător român de tenis. Ea a fost clasată pe locul 1 mondial la simplu de două ori între 2017 și 2019. În total, ea a fost numărul 1 timp de 64 de săptămâni, care ocupă locul al zecelea în istoria clasamentului Asociației de Tenis Feminin (WTA). Halep a fost numărul 1 la sfârșitul anului în 2017 și 2018. Ea a terminat în fiecare an pe locul nu mai mic decât No. 4 din 2014 și are cea mai lungă dungă activă de a fi clasată în top 10. A câștigat 22 de titluri WTA la simplu și a terminat pe locul doi de 17 ori. Halep a câștigat două titluri de Grand Slam la simplu: French Open 2018 și Wimbledon Championships 2019.
+
+Halep a intrat pentru prima dată în top 50 mondial la sfârșitul anului 2011, a ajuns în top 20 în august 2013, iar apoi în top 10 în ianuarie 2014. Ea a câștigat primele șase titluri WTA în același an calendaristic în 2013 și a fost prima care a făcut acest lucru de la Steffi Graf în 1986. Acest lucru a dus la decizia ei de a fi desemnată cea mai îmbunătățită jucătoare WTA la sfârșitul anului. Halep a ajuns în trei finale de Grand Slam la French Open 2014, French Open 2017și Australian Open 2018 înainte de a câștiga primul ei titlu de Grand Slam la simplu la French Open 2018 împotriva lui Sloane Stephens. Fostă campioană la junioare acolo, ea a devenit doar a șasea jucătoare care a câștigat atât titlurile de simplu feminin, cât și pe cele feminine la simplu, la French Open. Halep a terminat, de asemenea, pe locul doi la finala WTA din 2014 în fața Serenei Williams, în ciuda faptului că a provocat cea mai gravă pierdere din cariera lui Williams în acel moment al etapei de round robin. Ea nu a învins-o pe Williams a doua oară până în finala Campionatului de la Wimbledon 2019.
+
+Halep a fost cea mai populară jucătoare wta a anului timp de doi ani consecutivi în 2014 și 2015, precum și jucătoarea anului la simplu favorită la fanii WTA timp de trei ani consecutivi în 2017, 2018 și 2019. Este laureată a Crucii Patriarhale a României și a Ordinului Steaua Românieiși a fost numită cetățean de onoare al Municipiului București. Este a treia româncă care se află în top 10 al clasamentului WTA după Virginia Ruzici și Irina Spîrlea, și a doua româncă care câștigă un titlu de Grand Slam la simplu după Ruzici. De asemenea, este prima româncă clasată pe locul 1 și prima jucătoare română care câștigă un titlu la wimbledon la simplu. Halep este considerată una dintre cele mai bune reveniri din WTA Tour, construindu-și în același timp jocul în jurul faptului că este agresivă și poate lovi câștigătoarele din poziții defensive."
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+
+    </LinearLayout>
+
+</ScrollView>

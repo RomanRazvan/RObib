@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3D5E3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="349dp"
+            android:src="@drawable/caragiale" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ion Luca Caragiale (n. 1/13 februarie 1852 Haimanale, județul Prahova, Țara Românească, astăzi I. L. Caragiale, județul Dâmbovița, România – 9 iunie 1912, Berlin, Imperiul German) a fost un dramaturg, nuvelist, pamfletar, poet, scriitor, director de teatru, comentator politic și ziarist român. George Călinescu îl considera a fi cel mai mare dramaturg român și unul dintre cei mai importanți scriitori români. A fost ales membru post-mortem al Academiei Române.
+S-a născut la 1 februarie 1852,[6] în satul Haimanale[8] (care astăzi îi poartă numele), fiind primul născut al lui Luca Ștefan Caragiale și al Ecaterinei Chiriac Karaboas. Conform unor surse, familia sa ar fi fost de origine aromână.[9] Tatăl său, Luca (1812 - 1870), și frații acestuia, Costache și Iorgu, s-au născut la Constantinopol, fiind fiii lui Ștefan, un bucătar angajat la sfârșitul anului 1812 de Ioan Vodă Caragea în suita sa.
+
+Atras de teatru, Luca s-a căsătorit în 1839 cu actrița și cântăreața Caloropoulos, de care s-a despărțit, fără a divorța vreodată, întemeindu-și o familie statornică cu brașoveanca Ecaterina, fiica negustorului grec Luca Chiriac Karaboas.
+
+Primele studii le-a făcut în 1859 și 1860 cu părintele Marinache, de la Biserica Sf. Gheorghe din Ploiești, iar până în 1864 a urmat clasele primare II-V, la Școala Domnească din Ploiești, unde l-a avut învățător pe Bazil Drăgoșescu. Până în 1867 a urmat trei clase la Gimnaziul „Sfinții Petru și Pavel” din Ploiești, iar în 1868 a terminat clasa a V-a liceală la București. Caragiale a absolvit Gimnaziul „Sfinții Petru și Pavel” din Ploiești, pe care l-a numit, în Grand Hôtel „Victoria Română”, orașul său natal. Singurul institutor de care autorul Momentelor și-a adus aminte cu recunoștință a fost ardeleanul Bazil Drăgoșescu, acela care în schița memorialistică După 50 de ani l-a primit în clasă pe voievodul Unirii.
+
+Adolescentul Iancu a început să scrie poezii în taină, dar înainte de debutul literar a fost fascinat de performanțele teatrale ale unchiului său, Iorgu Caragiale, actor și șef de trupă, fixată la București sau ambulantă. În 1868 a obținut de la tatăl său autorizația de a frecventa Conservatorul de Artă Dramatică, în care fratele acestuia, Costache, preda la clasa de declamație și mimică. În 1870 a fost nevoit să abandoneze proiectul actoriei și s-a mutat cu familia la București, luându-și cu seriozitate în primire obligațiile unui bun șef de familie. În același an a fost numit copist la Tribunalul Prahova.
+La 12 martie 1885, s-a născut Mateiu, fiul natural al Mariei Constantinescu, funcționară la Regie, cu Caragiale, care îl declară la oficiul stării civile.
+
+În 1871, Caragiale a fost numit sufleor și copist la Teatrul Național din București, după propunerea lui Mihail Pascaly. L-a cunoscut pe Eminescu când tânărul poet, debutant la Familia, era sufleor și copist în trupa lui Iorgu. Din 1873 până în 1875, Caragiale a colaborat la Ghimpele cu versuri și proză, semnând cu inițialele Car și Policar (Șarla și ciobanii, fabulă antidinastică).
+
+La 7–8 ianuarie 1889 s-a căsătorit cu Alexandrina Burelly, fiica actorului Gaetano Burelly. Din această căsătorie vor rezulta mai întâi două fete: Ioana (n. 24 octombrie 1889) și Agatha (n. 10 noiembrie 1890), care se sting de timpuriu din cauza tusei convulsive sau a difteriei (la 15 iunie respectiv 24 martie 1891)[10]. La 3 iulie 1893 i se naște un fiu, Luca Ion.
+
+În 1889, anul morții poetului Mihai Eminescu, Caragiale a publicat articolul În Nirvana. În 1890 a fost profesor de istorie la clasele I-IV la Liceul Particular Sf. Gheorghe, iar în 1892 și-a exprimat intenția de a se exila la Sibiu sau la Brașov. La 24 februarie 1903 a avut o încercare de a se muta la Cluj, unde a fost găzduit de protopopul Elie Dăianu, însă în luna noiembrie și-a stabilit domiciliul provizoriu la Berlin. La 14 martie 1905 s-a stabilit definitiv la Berlin.
+Caragiale a fost acuzat că ar fi plagiat Năpasta după o piesă a scriitorului ungar István Kemény, intitulată „Nenorocul”. Acuzația a apărut în 1901 în două articole din Revista literară, semnate cu pseudonimul Caion. Furios, Caragiale s-a adresat presei din București, a aflat numele real al autorului (C. Al. Ionescu), l-a acționat in justiție și a câștigat fără probleme, grație pledoariei avocatului său, Barbu Ștefănescu Delavrancea.
+
+Cei 12 jurați au decis însă să-l achite pe Caion, tot scandalul fiind catalogat drept „o impertinență de copil”.
+
+Susținut puternic de Alexandru Macedonski, alergic și el la valori, Caion «descoperă» alte «două plagiate». Scârbit de umilința trăită și sătul de nedreptăți, Caragiale decide să părăsească țara, mutându-se împreună cu familia la Berlin, în 1904, când primește o mult așteptată și disputată moștenire de la mătușa sa, Ecaterina Cardini din Șcheii Brașovului (cunoscută ca Mumuloaia, după porecla Momulo a soțului ei), căreia afacerile imobiliare îi aduseseră mari averi.
+
+Renunțând la tăcerea ce și-o impusese în exilul său voluntar de la Berlin, evenimentele din primăvara anului 1907, îl determin pe Caragiale să publice, în noiembrie 1907, la București, broșura: 1907 din primăvară până'n toamnă, un celebru eseu referitor la cauzele și desfășurarea marii mișcări țărănești din primăvara lui 1907.
+În zorii zilei de 9 iunie 1912, Caragiale a murit subit în locuința sa de la Berlin, din cartierul Schöneberg, bolnav fiind de arterioscleroză. Rămășițele pământești sunt expuse în capela cimitirului protestant Erster Schöneberger Friedhof și depuse, la 14 iunie, în cavoul familiei, în prezența lui Gherea, a lui Delavrancea și a lui Vlahuță."
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+
+    </LinearLayout>
+
+</ScrollView>

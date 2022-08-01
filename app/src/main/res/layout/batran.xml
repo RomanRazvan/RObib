@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3D5E3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="349dp"
+            android:src="@drawable/batran" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mircea cel Bătrân (n. 1355, Țara Românească⁠, România –  31 ianuarie 1418, Curtea de Argeș, Argeș, România) a fost domnul Țării Românești între 23 septembrie 1386 - noiembrie 1394 (sau mai 1395) și între ianuarie 1397 - 31 ianuarie 1418.
+
+A fost fiul lui Radu I și fratele lui Dan I (dar numai după tată), căruia i-a urmat la tron. În actele oficiale apare ca „În Hristos Dumnezeu, binecredinciosul și de Hristos iubitorul și singur stăpânitorul, Io Mircea mare voievod și domn...”. În istoriografia română apare și sub numele Mircea cel Mare.
+
+În timpul lui Mircea cel Bătrân, Țara Românească a ajuns la cea mai mare întindere teritorială din istoria sa. Acest fapt a adus cu sine și o întărire a autorității sale, exprimată în titulatura pompoasă (care încludea și titlul de despot „al țărilor lui Dobrotici”) și în reprezentarea numismatică.Podunavia din titlurile lui Mircea cel Bătrân era Timocul din Serbia de astăzi.
+Mircea urcă pe tron după moartea fratelui său Dan, petrecută la 23 septembrie 1386. El găsește Țara Românească în plin proces de dezvoltare datorită politicilor înțelepte promovate de înaintașii săi și va continua consolidarea economiei, armatei, administrației și Bisericii.[20][21]
+
+Rezultatele obținute i-au permis să reziste tendințelor de expansiune ale Regatului Ungar și ale Poloniei, care urmăreau în special controlul asupra gurilor Dunării și să stăvilească forțele otomane aflate în plină expansiune în Balcani.
+Mircea a intrat în conflict cu Imperiul Otoman din cauza intervențiilor sale în sprijinul popoarelor creștine din sudul Dunării. În 1395, Baiazid I (zis și Ildîrîm sau Fulgerul) a trecut Dunărea în fruntea unei forțe însemnate (aprox. 40.000 de soldați, după unii autori). Mircea bazându-se pe o armată mai mică (aprox 12.000 de soldați), neputându-se opune într-o luptă deschisă, a ales o tactică de hărțuire. În ziua de 17 mai 1395 (după alte surse 10 octombrie 1394), armata Țării Românești înfrânge avangarda otomană într-un loc mlăștinos și împădurit, numit Rovine. Bătălia nu este decisivă, căci Mircea cel Bătrân, după o luptă dată lângă Argeș, pierde tronul și se retrage în Transilvania. Strategia militară abordată de către acesta precum și tactica retragerii îi aduce o oarecare faimă între conducătorii acelei vremi. În Țara Românească, turcii îl așază în scaun pe un anume Vlad, care va fi înlăturat de către Mircea abia în 1397, cu ajutor militar din partea lui Sigismund de Luxemburg.
+
+În 1396 Mircea, în calitate de principe creștin vasal regelui maghiar, participă la cruciada anti-otomană inițiată de o parte a capetelor încoronate și o parte a nobilimii occidentale și condusă teoretic de regele maghiar. După câteva succese minore, cruciada s-a încheiat lamentabil cu dezastrul de la Nicopole din 25 septembrie. Oastea valahă, formată din cavalerie ușoară, nefiind invitată să ia parte la șarja cavaleriei grele, se retrage fără a intra în luptă.
+
+În scrierea istoricului grec Dionisie Fotino[30] este descrisă bătălia de la Nicopole: „Baiazet,...devastând Bulgaria, s-a apropiat de marginile Dunărei, către Nicopole. Acolo i-a eșit înainte Sigmund Domnul Transilvaniei, și generalissimul regelui Ungariei Sigismund, cu mulțime de oștire compusă din Unguri, Transilvani, Germani și două mii nobili din Franța, cari veniseră cu comitele de Nevers în ajutoriu. Dar Baiazet, neîngrozindu-se a căzut asupra lor, și atâta vărsare de sânge a făcut, în cât a sfărâmat cu totul oștirile aliate, și Sigmund abia a scăpat cu o barcă pescărească.” Este de menționat că Dionisie Fotino îl denumește pe Mircea cu numele Mircea I Bassarab, „carele s-a făcut deplin domnitor al Țerei Muntenesci, adecă atât peste cele 13 județe (împreună cu al Brăilei) cât și peste cele 5 ale Banatului Craiovei de peste Olt.”(Dionisie Fotino, op. cit. p. 16).
+Anul următor, în 1397, pe râul Ialomița, precum și în anul 1400, Mircea cel Bătrân zdrobește categoric două incursiuni otomane ce se întorceau peste Dunăre din expediții de jaf în Transilvania.
+
+Înfrângerea sultanului Baiazid I de către Timur Lenk (Tamerlane sau Timur cel Șchiop) la Ankara în vara lui 1402 a deschis perioadă de anarhie în Imperiul Otoman, ca urmare Mircea a organizat împreună cu regele maghiar o campanie împotriva turcilor. În 1404 Mircea a reușit să se impună din nou drept conducător peste Dobrogea. Mai mult, el a luat parte la lupta pentru tronul imperiului otoman și l-a ajutat, prin sprijin militar, pe Musa Celebi (fiul lui Baiazid I) să devină sultan (pentru o perioadă scurtă), după moartea căruia a sprijinit și alți pretendenți (în 1416 pe Mustafa Celebi, frate al lui Musa, apoi pe șeicul Bedr-ed-Din). În anul 1409 Musa a venit în Țara Românească, fiind primit de Mircea. În anul următor, cu ajutor de la domnul român și de la despotul Serbiei, Ștefan Lazarevici, forțele lui Musa au învins pe cele ale fratelui său Soliman (Suleiman), ucis după ce fugise de pe câmpul de luptă. La 17 februarie 1411, Musa era proclamat sultan la Edirne (Adrianopol).
+
+Cu toate acestea, sultanul Mahomed I reușește să-și înfrângă oponenții și plănuiește o expediție de pedepsire a voievodului valah.
+Pentru a evita campania sultanului, Mircea semnează spre sfârșitul domniei (1415 sau 1417) un tratat de pace cu Imperiul Otoman, care recunoștea libertatea Valahiei în schimbul unui tribut anual de 3.000 de piese de aur. Totodată, domnul român a fost obligat să trimită turcilor un fiu ostatic drept garanție.
+
+Mircea cel Bătrân a încetat din viață la 31 ianuarie 1418, fiind înmormântat la ctitoria sa de la Cozia, la 4 februarie același an. La domnie a urmat fiul său Mihail I, asociat încă din 1408."
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+
+    </LinearLayout>
+
+</ScrollView>

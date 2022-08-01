@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3D5E3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="349dp"
+            android:src="@drawable/iliescu" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ion Iliescu (n. 3 martie 1930, Oltenița⁠(d), Călărași, România) este un politician român, care a condus statul român în trei rânduri, ca președinte al CFSN între 22 decembrie 1989-1992, apoi ca președinte ales al României între anii 1992-1996 și 2000-2004. Între 1996-2000 și 2004-2008 a fost senator din partea PSD. A fost președinte de onoare al PSD.
+La alegerile prezidențiale din 20 mai 1990, primele alegeri de după înlăturarea de la putere a PCR, și singurele de până acum cu un singur tur de scrutin, este ales președinte al României, pe durata unui mandat de 2 ani. După instalarea în funcție și victoria FSN în alegerile legislative, l-a numit prim-ministru pe Petre Roman, la început considerat un acolit politic al noului președinte. În urma unor conflicte între grupările formate în interiorul partidului, autoritățile au făcut apel la mineri pentru a veni în București să intimideze protestatarii anti-comuniști și să protesteze împotriva guvernului. Aceste evenimente au degenerat în ceea ce s-a numit Mineriada din septembrie 1991. În urma acesteia, Roman a demisionat din funcția de prim ministru.
+
+În 1991, este formulată și adoptată prin referendum noua Constituție. În 1992, în urma primelor alegeri prezidențiale desfășurate în prevederile constituționale, Ion Iliescu a câștigat alegerile cu 61% din voturile exprimate în al doilea tur. Potrivit unor analiști politici români, cum ar fi Daniel Barbu sau Dan Pavel, alegerea sa s-a bazat aproape exclusiv pe voturile populației din zona rurală, a muncitorilor din clasa de jos care au fost manipulați și dezorientați de mass-media controlată de stat (Televiziunea Română a fost singurul post TV până în 1993).
+
+În timpul primului mandat constituțional al lui Iliescu, România s-a stabilizat și democratizat parțial, trecând, lent, de la economia dirijată spre o economie de piață; a reluat relațiile externe cu țările din Uniunea Europeană și NATO, și s-au introdus reforme sociale și economice incipiente care au demarat o îndelungată perioada de tranziție a țării spre democrație. Iliescu a beneficiat de sprijinul guvernului, dominat de Partidul Democrației Sociale din România (PDSR), aflat într-o coaliție cu câteva grupări comuniste și naționaliste (PRM, PUNR, PSM — denumite de presa de opoziție „Patrulaterul Roșu” pentru rezistența opusă oricăror reforme profunde). În 1996, candidează pentru un nou mandat, din partea PDSR. În turul 1 s-a clasat pe primul loc, cu 47,34% din opțiunile de vot, fiind depășit în turul 2 de Emil Constantinescu, candidatul CDR, cu 8,82% de voturi diferență.
+În alegerile din 2000 a candidat din nou și a câștigat în turul al doilea în fața ultra-naționalistului Corneliu Vadim Tudor. Și-a început al doilea mandat constituțional și al treilea de facto la 20 decembrie 2000 și l-a încheiat la 20 decembrie 2004 când Traian Băsescu a devenit președinte. A câștigat alegerile din 2000 în urma nemulțumirilor populației față de reformele economice dure din precedenții patru ani duse de guvernarea de centru precum și de instabilitatea politică și de luptele interne din coaliția de guvernare. Populația urbană având de ales între Vadim Tudor și Iliescu a preferat să se abțină sau să voteze cu Iliescu.
+
+Guvernul Năstase, venit la putere în acest mandat al lui Iliescu, a continuat o parte din șirul reformelor începute de guvernele anterioare între 1996 și 2000. În timpul celui de-al doilea mandat al lui Ion Iliescu, România a aderat la NATO și a finalizat negocierile pentru aderarea la Uniunea Europeană. Una dintre acțiunile instituției prezidențiale în timpul celui de al doilea mandat al lui Ion Iliescu a fost înființarea „Comisiei Internaționale pentru Studierea Holocaustului în România”, în urma unor incidente diplomatice cauzate de negaționismul Holocaustului practicat de figuri importante din conducerea țării. Comisia, condusă de laureatul Premiului Nobel pentru Pace Elie Wiesel a întocmit un raport privind Holocaustul în România, raport asumat și declarat „document de stat” de către Ion Iliescu."
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "556124869387",
+    "project_id": "robib-ae20c",
+    "storage_bucket": "robib-ae20c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556124869387:android:2423426fb71b9b6665880e",
+        "android_client_info": {
+          "package_name": "com.example.robib"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556124869387-ra5ugmkabacjee1gr8fk41keimg43vtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaL4KHLunOPrRQ8DIz5u88zT3JcpDBx6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556124869387-ra5ugmkabacjee1gr8fk41keimg43vtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3D5E3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+
+        <Button
+            android:id="@+id/iliescu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#BD8577"
+            android:text="Ion Iliescu"
+            android:textColor="#000000" />
+
+        <Button
+            android:id="@+id/iohannis"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#BD8577"
+            android:text="Klaus Iohannis"
+            android:textColor="#000000" />
+
+        <Button
+            android:id="@+id/ceausescu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#BD8577"
+            android:text="Nicolae Ceausescu"
+            android:textColor="#000000" />
+
+        <Button
+            android:id="@+id/basescu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#BD8577"
+            android:text="Traian Basescu"
+            android:textColor="#000000" />
+
+    </LinearLayout>
+
+</ScrollView>

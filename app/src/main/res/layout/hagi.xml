@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3D5E3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="349dp"
+            android:src="@drawable/gheorghe" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Gheorghe Hagi (nascut pe 5 februarie 1965, in Săcele, Constanța, România, in prezent la varsta de 56 ani) este un fost fotbalist român, considerat unul dintre cei mai buni mijlocași ofensivi în Europa anilor '80 și '90 și cel mai mare fotbalist român din toate timpurile. Fanii lui Galatasaray l-au numit Comandante (Comandantul) și românii l-au numit Regele.
+
+Supranumit Maradona din Carpați, Hagi este considerat un erou în România. A fost numit fotbalistul român al anului de șapte ori, și este privit ca unul dintre cei mai buni fotbaliști ai generației sale. Ca un constructor de joc avansat, a fost recunoscut pentru dribling, tehnică, viziune, pase și finalizare.
+
+Hagi a jucat pentru naționala României la trei campionate mondiale în 1990, 1994 (unde a fost numit în World Cup All-Star Team) și 1998, cât și în trei campionate europene în 1984, 1996 și 2000. A avut 125 de prezențe pentru România, al doilea după Dorinel Munteanu, și este pe prima poziție a marcatorilor (alături de Adrian Mutu) cu 35 de goluri.
+
+În noiembrie 2003, pentru a celebra jubileul UEFA, a fost selectat de către Federația Română de Fotbal drept cel mai bun jucător al României din ultimii 50 de ani. În 2004, a fost numit de Pelé drept unul dintre cei 125 cei mai mari fotbaliști în viață, la o ceremonie de premiere a FIFA. Hagi este unul din puținii fotbaliști care au jucat pentru ambele cluburi rivale spaniole Real Madrid și Barcelona.
+
+În 2009, Hagi a fondat clubul român Viitorul Constanța. În prezent el este atât proprietarul cât și președintele clubului. De asemenea, a înființat Academia de Fotbal Gheorghe Hagi, una dintre cele mai mari academii de fotbal din Europa de Sud-Est.
+
+Fiul său, Ianis, este de asemenea fotbalist, actualmente sub contract cu Rangers FC."
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+
+    </LinearLayout>
+
+</ScrollView>

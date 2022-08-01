@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3D5E3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="349dp"
+            android:src="@drawable/caragiu" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Toma Caragiu (n. 21 august 1925, Argos Orestiko, Grecia – d. 4 martie 1977, București) a fost un actor român de origine aromână, cu activitate bogată în radio, teatru, televiziune și film. A interpretat cu precădere roluri de comedie, dar a jucat și în drame, unul dintre filmele sale de referință fiind Actorul și sălbaticii (1975).
+S-a născut la 21 august 1925 într-o familie de aromâni (Nico Caragiu și Atena Papastere Caragiu) originară din satul grecesc Aetomilitsa, provincia Konitsa, prefectura Ioannina, regiunea Epir. Familia Caragiu se stabilește la Ploiești, pe str. Rudului 144. Toma este elev în clasa a opta la Liceul „Sfinții Petru și Pavel” din Ploiești.
+Este cooptat în trupa de teatru a liceului și scrie în revista liceului Frământări. Primește diploma de bacalaureat în vara anului 1945. Se înscrie la Drept, dar abandonează cursurile și intră la Conservatorul de Muzică și Artă Dramatică București, clasa Victor Ion Popa. În vacanțe susține o muncă vie de animator cultural și adunând în jurul său alți artiști realizează spectacolul Take, Ianke și Cadîr de V. I. Popa, pe care îl joacă la cinematograful „Modern” din Ploiești, apoi Trandafirii roșii de Zaharia Bârsan. Astfel ia ființă nucleul denumit „Brigada culturală Prahova” ce se transformă în „Teatrul Sindicatelor Unite” (1947) din care se va naște „Teatrul de Stat Ploiești” (1949). Debutul pe scenă îl face pe scena studioului „Teatrului Național” din Piața Amzei (1948), când încă student în anul III, i se încredințează rolul unui scutier în piesa Toreadorul din Olmado pus în scenă de regizorul Ion Șahighian.
+
+La 1 mai 1948 se angajează ca membru al corpului artistic al Teatrului Național. Obține diploma de absolvire a IATC în 1949, la vârsta de 24 de ani. La 1 aprilie 1951 se angajează la „Teatrul de Stat” din Constanța, recent înființat, unde joacă, printre alte roluri, pe Rică Venturiano în piesa O noapte furtunoasă.
+
+În 1953, la vârsta de 28 de ani, este numit director al „Teatrului de Stat” din Ploiești, funcție pe care o va deține timp de 12 ani. A interpretat pe scena ploieșteană 34 de roluri. În 1965 este invitat de Liviu Ciulei și pleacă la Teatrul Bulandra din București, lăsând în urmă o zestre de 90 de premiere.
+
+A jucat alături de alți monștri sacri cum ar fi Ștefan Bănică, Octavian Cotescu, Anda Călugăreanu și alții. A murit în mod tragic, sub dărâmăturile blocului din București unde locuia în Cutremurul din 1977 4 martie, care va lua viața și bunului său prieten, regizorul Alexandru Bocăneț. Toma Caragiu a fost înmormântat la cimitirul Belu din București."
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+
+    </LinearLayout>
+
+</ScrollView>

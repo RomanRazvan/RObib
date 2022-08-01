@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3D5E3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="349dp"
+            android:src="@drawable/viteazul" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mihai Viteazul (n. 1558, Floci, Țara Românească – d. 9/19 august 1601,[7] Câmpia Turzii, Principatul Transilvaniei) a fost domnul Țării Românești între 1593-1600. Pentru o perioadă (în 1600), a fost conducător de facto al celor trei state medievale care formează România de astăzi: Țara Românească, Transilvania și Moldova. Înainte de a ajunge pe tron, ca boier, a deținut dregătoriile de bănișor de Strehaia, stolnic domnesc și ban al Craiovei.
+
+Figura lui Mihai Viteazul a ajuns în panteonul național românesc după ce a fost recuperată de istoriografia românească a secolului al XIX-lea, un rol important jucându-l opul Românii supt Mihai-Voievod Viteazul al lui Nicolae Bălcescu. Astfel voievodul a ajuns un precursor important al unificării românilor, care avea să se realizeze în secolul al XX-lea.
+Conturarea mitului Mihai Viteazul ilustrează mai bine ca oricare alt model istoric mutațiile petrecute în conștiința românească. Domnitorul care a reușit să stăpânească pentru scurt timp, la 1599-1600, cele trei țări reunite, trei veacuri mai târziu, în România modernă, începe a fi receptat ca unificator abia spre mijlocul secolului al XIX-lea. O asemenea interpretare lipsește cu desăvârșire în istoriografia cronicărească a veacului al XVII-lea și chiar mai târziu, spre 1800, la Școala Ardeleană.
+Contextul internațional a fost nefavorabil lui Mihai. Puterile vecine vedeau în ambițiile sale politice o contradicție cu interesele proprii de dominanță. Habsburgii își vedeau amenințate planurile de menținere a Transilvaniei în sfera lor de influență, Polonia nu dorea pierderea controlului asupra Moldovei, iar Imperiul Otoman nu accepta ideea renunțării la Țara Românească. Mai mult chiar, uniunea personală a lui Mihai reprezenta o formulă puternică, capabilă să schimbe raportul de forțe din regiune.
+
+Existau însă și conflicte interne, cauzate de insubordonarea nobililor maghiari din Transilvania care nu acceptau măsurile impuse de noul domn. De asemenea, sașii au rămas ostili lui Mihai, în urma jafurilor întreprinse de armatele sale în orașele și satele lor (Ghimbav, Codlea, Merghindeal, Cincu, Șura Mică, Cristian, Câlnic etc.).
+
+Mihai nu reușește să înfrângă revolta nobililor maghiari transilvăneni, sprijiniți de generalul Basta care l-a învins în Bătălia de la Mirăslău (18/28 septembrie 1600) și astfel pierde Ardealul. În scurt timp Moldova va reintra în posesia Movileștilor aserviți intereselor polone. Polonii au pătruns în Moldova cu cancelarul și marele hatman Zamoyski, Mihai fiind învins în bătălia de la Bucov (20 octombrie 1600), astfel că Zamoyski îl reinstalează pe tronul Moldovei pe Ieremia Movilă.
+
+Mihai încearcă să reziste atacului polon asupra Țării Românești, însă și pe acest tron se va urca un membru al familiei Movileștilor, Simion Movilă.
+
+Așadar, înfăptuirea unirii manu militari nu a durat, creația politică a lui Mihai s-a prăbușit ca efect al intereselor proprii ale Habsburgilor, Poloniei și Imperiului Otoman.
+Forțat să ia calea pribegiei, Mihai se îndreaptă spre Praga pentru a solicita ajutor de la împăratul Rudolf al II-lea. Călătoria a fost lungă și anevoioasă (voievodul și însoțitorii săi fiind atacați de mai multe ori, mai ales în Transilvania), trecând prin Deva, Lipova, Oradea, Debrețin, Tokaj, Pojon și Viena.[39] A ajuns la Viena, împreună cu cei 40 de însoțitori care îi mai rămăseseră, la 2 ianuarie 1601, unde a fost primit de arhiducele Matthias (viitorul împărat Matia I), care i-a înlesnit primirea la Curtea Imperială de la Praga. Mihai Viteazul a ajuns la Praga pe 23 februarie 1601, fiind primit în audiență la împărat pe 14 martie.
+
+Mihai cere sprijinul împăratului Rudolf al II-lea, care, în contextul reînscăunării lui Sigismund Bathory pe tronul Transilvaniei, acceptă să-l susțină pe voievodul român.
+
+Împreună cu generalul Basta, Mihai pornește campania de recucerire a teritoriilor românești. Prin victoria de la Guruslău (3 august 1601), voievodul român îl îndepărtează pe Sigismund Báthory din Transilvania. Continuă prin a recupera Țara Românească gonindu-l pe Simion Movilă de pe tron. În aceste condiții, se întrezăreau perspectivele unei noi uniri românești, perspectivă ce nu convenea împăratului habsburgic, Rudolf al II-lea. Se pune la cale înlăturarea fizică a domnitorului român, și la 9/19 august 1601[1][2], la 3 km sud de Turda, Mihai Viteazul este ucis de un detașament de mercenari în frunte cu ofițerul valon Iacob (Jacques) de Beauri, trimis de generalul Giorgio Basta."
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+
+    </LinearLayout>
+
+</ScrollView>

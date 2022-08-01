@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3D5E3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="349dp"
+            android:src="@drawable/brancus" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Constantin Brâncuși (n. 19 februarie 1876, Hobița, Peștișani, Gorj, România – d. 16 martie 1957, Paris, Franța) a fost un sculptor român cu contribuții covârșitoare la înnoirea limbajului și viziunii plastice în sculptura contemporană. Constantin Brâncuși a fost ales membru postum al Academiei Române. Francezii și americanii îl desemnează, cel mai adesea, doar prin numele de familie, pe care îl scriu fără semne diacritice, Brancusi, pronunțându-l după regulile de pronunțare ale limbii franceze.
+Născut la 19 februarie 1876, la Hobița, Gorj, Constantin era al șaselea copil al lui Radu Nicolae Brâncuși (1833-1885) și Maria Brâncuși (1851-1919). Prima clasă primară a făcut-o la Peștișani, apoi a continuat școala la Brădiceni. Copilăria sa a fost marcată de dese plecări de acasă și de ani lungi de ucenicie în ateliere de boiangerie, prăvălii și birturi.
+
+În Craiova, în timp ce lucra ca ucenic, își face cunoscută îndemânarea la lucrul manual prin construirea unei viori din materiale găsite în prăvălie. Găsindu-se că ar fi de cuviință să dezvolte aceste abilități, el s-a înscris cu bursă la Școala de Arte și Meserii din Craiova.
+După ce a urmat Școala de Arte și Meserii în Craiova (1894 - 1898) vine la București unde absolvă Școala de bellearte în 1902. În timpul studenției, chiar în primul an, în 1898, lucrarea sa Bustul lui Vitellius obține „mențiune onorabilă”, Cap al lui Laocoon din 1900 obține medalia de bronz, iar Studiu din 1901 câștigă medalia de argint. Timp de doi ani, între 1900 și 1902, cu ajutorul doctorului Dimitrie Gerota, realizează Ecorșeu, un studiu pentru reprezentarea corpului omenesc, lucrare căreia i se atribuie o medalie de bronz. Precizia detaliilor acestei lucrări face ca Ecorșeul să fie folosit în școlile românești de medicină, după ce s-au făcut câteva copii; Marcel Duchamp a inclus fotografia Ecorșeului în expoziția organizată la sfârșitul anului 1933 la Galeria Brummer din New York City.
+În 1903 primește prima comandă a unui monument public, bustul generalului medic Carol Davila, care a fost instalat la Spitalul Militar din București și reprezintă singurul monument public al lui Brâncuși din București. Acest bust a fost comandat de un consiliu format de fostul său profesor Dimitrie Gerota, pentru a îl ajuta pe Brâncuși să plătească drumul până la Paris. Plata pentru monument a fost împărțită în două tranșe, prima jumătate fiind plătită înainte ca să înceapă lucrul, iar a doua tranșă după ce Brâncuși a terminat bustul. Când a terminat lucrarea, aceasta a fost prezentată în fața consiliului, dar recepția a fost nesatisfăcătoare, diferite persoane din consiliu având opinii contrarii despre caracteristicile fizice ale generalului, spre exemplu cerând micșorarea nasului, și de asemenea păreri diferite în legătură cu poziționarea epoleților. Înfuriat de inabilitatea consiliului de a înțelege sculptura, Brâncuși pleacă din sala de ședințe în mirarea tuturor, fără a primi a doua jumătate a banilor necesari plecării sale spre Franța, decizând sa parcurgă drumul către Paris pe jos
+În drum spre Paris a trecut mai întâi prin Hobița, unde și-a luat rămas bun de la mama sa. Și-a continuat drumul, oprindu-se în Viena pentru o perioadă, timp în care a lucrat la un atelier ca decorator de mobilier. În Viena a început să viziteze muzee cu opere de artă inaccesibile în România. Aici a făcut cunoștință cu sculpturile egiptene care i-au influențat opera mai târziu în viață.
+
+Din Viena a plecat în 1904 spre München, dar după șase luni pornește pe jos prin Bavaria și Elveția și până la Langres, în Franța. În apropriere de Lunéville, după o ploaie torențială în care este prins, Brâncuși capătă o pneumonie infecțioasă și, în stare critică, este primit la un spital de maici. După o perioadă de recuperare gândește că nu mai are puterile și nici timpul necesar pentru a parcurge drumul spre Paris pe jos, astfel că ultima bucată a drumului o parcurge cu trenul.
+
+În 1905 reușește la concursul de admitere la prestigioasa École Nationale Supérieure des Beaux-Arts, unde lucrează în atelierul lui Antonin Mercié până în 1906, când, atingând limita de vârstă, părăsește școala. Refuză să lucreze ca practician în atelierul lui Auguste Rodin, rostind cuvintele devenite celebre: „Rien ne pousse à l’ombre des grands arbres” (La umbra marilor copaci nu crește nimic).
+În anul 1957, Brâncuși îl cheamă pe arhiepiscopul Teofil, preot la biserica ortodoxă, se spovedește și se împărtășește.
+
+În data de 16 martie 1957 Constantin Brâncuși se stinge din viață la ora 2 dimineața, iar la 19 martie este înmormântat la cimitirul Montparnasse din Paris."
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+
+    </LinearLayout>
+
+</ScrollView>

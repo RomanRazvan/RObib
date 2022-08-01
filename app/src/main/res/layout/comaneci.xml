@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3D5E3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="349dp"
+            android:src="@drawable/comaneci" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nadia Elena Comăneci Conner (n. 12 noiembrie 1961), cunoscută profesional ca Nadia Comăneci,este o gimnastă româncă retrasă din activitate și de cinci ori medaliată olimpică cu aur, toate la probe individuale. În 1976, la vârsta de 14 ani, Comăneci a fost prima gimnastă care a primit un scor perfect de 10,0 la Jocurile Olimpice. La aceleași Jocuri (Jocurile Olimpice de vară din1976 de la Montreal),ea a primit încă șase 10 perfecte pentru evenimente în drum spre câștigarea a trei medalii de aur. La Jocurile Olimpice de vară din 1980 de la Moscova, Comăneci a câștigat încă două medalii de aur și a obținut încă două de 10 perfecte. De-a lungul carierei, Comăneci a cucerit nouă medalii olimpice și patru medalii la Campionatul Mondial de Gimnastică Artistică.
+
+Comăneci este una dintre cele mai cunoscute gimnaste din lume și este creditată cu popularizarea sportului pe glob. În 2000, a fost numită una dintre atletele secolului XX de către Academia Mondială de Sport laureu. Ea a trăit în Statele Unite din 1989, când a dezertat din România comunistă de atunci înainte de revoluția din decembrie acel an. Mai târziu a lucrat și s-a căsătorit cu gimnastul american Bart Conner,care și-a înființat propria școală. În 2001 a devenit cetățean naturalizat al Statelor Uniteși are dublă cetățenie, menținându-și și cetățenia română."
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+
+    </LinearLayout>
+
+</ScrollView>

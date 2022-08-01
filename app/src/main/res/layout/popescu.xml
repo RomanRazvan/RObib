@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3D5E3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="349dp"
+            android:src="@drawable/pope" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Gheorghe Popescu, cunoscut mai ales ca Gică Popescu (n. 9 octombrie 1967, Calafat) este un fost fotbalist român, actualmente impresar.
+
+A participat cu echipa națională de fotbal a României la trei turnee finale ale Campionatelor mondiale (1990, 1994 și 1998) și la două ale Campionatelor europene de fotbal (1996 și 2000). De-a lungul carierei a jucat la CS Universitatea Craiova, Dinamo București, Steaua București, PSV Eindhoven, Tottenham Hotspur, FC Barcelona, U.S. Lecce, Galatasaray S.K. (cu care a câștigat Cupa UEFA în 2000) și SV Hannover 96, câștigând 13 trofee.
+
+A fost căpitanul celebrei echipe FC Barcelona, cu care a câștigat Cupa Cupelor.
+După retragerea din fotbal, a intrat în afaceri și și-a deschis propria școală de fotbal (Școala de Fotbal Gică Popescu) la Craiova. Era văzut ca un apropiat al fraților Giovanni și Victor Becali pana la momentul condamnarilor la inchisoare.
+
+În 2005 a candidat pentru președinția Federației Române de Fotbal împotriva fostului președinte Mircea Sandu, însă la alegerile din 21 noiembrie a adunat doar 102 voturi, față de 187 ale contracandidatului său. În martie 2008 a fost decorat cu Ordinul „Meritul Sportiv” clasa a III-a, pentru rezultatele obținute la turneele finale din perioada 1990-2000 și pentru întreaga activitate.
+
+Începând cu ianuarie 2008, Popescu a fost anchetat de Direcția Națională Anticorupție, fiind acuzat de înșelăciune, evaziune și spălare de bani, într-un dosar care privește transferurile a 12 fotbaliști, din perioada 1999–2005. Popescu se numără printre cei zece impresari și patroni de cluburi de fotbal împotriva cărora procurorii DNA au anunțat începerea urmăririi penale, pentru mai multe infracțiuni - înșelăciune, evaziune fiscală și spălare de bani, precum și prejudicierea a patru cluburi cu suma de zece milioane de euro. În martie 2014, Popescu a fost condamnat la trei ani și o lună de închisoare. A fost eliberat condiționat în noiembrie 2015.
+
+Gheorghe Popescu deține un holding alcătuit din zece firme, cu proiecte în domeniile hotelier și imobiliar-birouri, spații comerciale și rezidențial[9]. În anul 2008, averea lui era estimată la 40 milioane de euro[9]. Deține și compania Energie Investments Group (EIG), prin intermediul căreia intenționează să intre pe piața energiei eoliene."
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+
+    </LinearLayout>
+</ScrollView>

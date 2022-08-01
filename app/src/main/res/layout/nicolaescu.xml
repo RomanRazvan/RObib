@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3D5E3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="349dp"
+            android:src="@drawable/nicolaescu" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sergiu Florin Nicolaescu (n. 13 aprilie 1930, Târgu Jiu, România – d. 3 ianuarie 2013, București, România) a fost un regizor, scenarist, actor și, după 1989, politician român. Este de departe cel mai prolific și mai vizionat regizor român din toate timpurile: 54 filme, plus 27 coproducții și peste 1 miliard de spectatori (majoritatea din China și Rusia, dar și 130 milioane de spectatori din România).
+
+Pe 30 mai 2015 Sergiu Nicolaescu a primit postum, în semn de recunoaștere și respect, o stea pe Walk of Fame (Aleea Celebrităților) din București. Cu această ocazie, actorul Vladimir Găitan a adus un omagiu marelui regizor: „Pe Sergiu Nicolaescu, ultraperfecționist, sever, profesionist de excepție, l-a cunoscut întreaga suflare artistică a României și, de ce nu, a Europei, să nu uităm filmele sale cu marii actori ai lumii”.
+
+        Sergiu Nicolaescu a debutat „fulminant” in filmele de lung metraj cu o „co-producție monumentală, cu filmul Dacii”, constata Grid Modorcea. Acesta continuă: „Sergiu Nicolaescu este primul cineast român care introduce în filmul românesc luptele dintre armate, mari armate, ca în legende. De fapt el reînnoadă un fir istoric, cel început cu Independența României (1912).”
+        A devenit cunoscut prin megaproducții istorice ca Dacii (1967) și Mihai Viteazul (1971), precum și pentru seria de filme polițiste centrate în jurul personajului fictiv Comisarul Moldovan. Nicolaescu a interpretat de asemenea rolul ilegalistului comunist Andrei în serialul de propagandă Pistruiatul (1973). Un alt gen predilect al lui Nicolaescu a fost filmul de război, pentru care a folosit adesea efectivele Armatei Române ca figurație.
+
+        Stilul său regizoral este caracterizat de o tendință bombastică spre auto-înscenare, Nicolaescu jucând adesea eroii principali ai filmelor pe care le regiza (seria Comisarul Moldovan, Nemuritorii, Mircea, Carol I etc). Andrei Gorzo, criticul de film al revistei Dilema Veche, scria despre Nicolaescu în rolul lui Carol I „Regele lui Nicolaescu e doar o altă fantezie de-a lui Nicolaescu despre sine, cum era și prințul lui din Orient Express (care la un moment dat se declara «un model vetust», înțelegînd prin asta că e prea mare pentru spiritele meschine ale generațiilor mai tinere) sau comisarul lui din Supraviețuitorul (care la rîndul lui se prezenta ca un anacronism, înțelegînd prin asta că oameni de calibrul lui nu se mai fac). În fanteziile lui, el a fost întotdeauna the king - de fapt, King Kong: un uriaș care e singurul din specia sa, care, supraviețuind, a ajuns într-un timp care nu e timpul său, într-o lume care nu-l mai vrea”.
+
+        După Revoluția din 1989, a fost senator din partea FSN, PDSR și PSD. A condus Comisia Senatorială de cercetare a evenimentelor din 1989, care a fost acuzată de falsificarea adevărului.[6][7] De altfel, în ședința Senatului din 29 martie 1994, Nicolaescu a propus ținerea unui moment de reculegere pentru generalul Ștefan Gușe, unul dintre responsabilii represiunii sângeroase de la Timișoara din decembrie 1989.
+
+        Ultimele sale filme, printre care Orient Express, 15, Supraviețuitorul, Carol I și Poker au fost considerate eșecuri critice, Nicolaescu fiind de asemenea criticat pentru câștigarea preferențială de finanțări publice prin CNC pentru filmele sale. Indiferent de criticile aduse activității sale politice, colaborării sale cu regimul comunist și punerii în practică a liniei naționalist-comuniste în cinematografie sau neajunsurilor sale ca regizor, multe din filmele sale au păstrat o veritabilă popularitate la public, impunând în folclorul urban citate repetate și parodiate precum „Un fleac, m-au ciuruit.” sau „Nu trage dom Semaca, sunt eu Lăscărică” și personaje memorabile ca legionarul Paraipan (jucat de Gheorghe Dinică) și țiganul Limbă (Jean Constantin).
+Sergiu Nicolaescu a fost internat la Spitalul de Urgență Elias la data de 26 decembrie 2012 pentru o afecțiune digestivă cronică. Ulterior medicii i-au diagnosticat cu totul o altă boală. Nicolaescu a fost operat laparoscopic în data de 28 decembrie. Intervenția chirurgicală a fost impusă de evoluția clinică în contextul afecțiunii digestive cronice benigne cunoscute. Intraoperator a fost descoperită o peritonită localizată cu punct de plecare apendicular, care a fost rezolvată laparoscopic. Intervenția chirurgicală a decurs fără incidente. În dimineața zilei de 3 ianuarie 2013 la ora 08.24 cineastul a încetat din viață."
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+
+    </LinearLayout>
+
+</ScrollView>

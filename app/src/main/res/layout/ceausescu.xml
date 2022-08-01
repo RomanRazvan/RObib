@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3D5E3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="349dp"
+            android:src="@drawable/ceausescu" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nicolae Ceaușescu (n. 26 ianuarie 1918, Scornicești, Olt, România – d. 25 decembrie 1989, Târgoviște, Dâmbovița, România) a fost un dictator român, secretar general al Partidului Comunist Român, șeful de stat al Republicii Socialiste România din 1967 până la căderea regimului comunist, survenită în 22 decembrie 1989.
+
+La 22 decembrie 1989, printr-un decret al CFSN semnat de Ion Iliescu, a fost constituit Tribunalul Militar Excepțional. La 25 decembrie 1989, soții Nicolae și Elena Ceaușescu au fost judecați de acest tribunal în cadrul unui proces sumar, condamnați la moarte și executați la câteva minute după pronunțarea sentinței.
+
+În iulie 2015, România a interzis prin lege „cultul lui Ceaușescu”.
+Evenimentele sângeroase de la Timișoara și București din decembrie 1989 au culminat cu căderea lui Ceaușescu și a regimului comunist.
+
+Spre exasperarea majorității covârșitoare a românilor, Ceaușescu este confirmat în fruntea PCR pentru un nou termen de cinci ani, la Congresul al XIV-lea al PCR din noiembrie 1989. La acest congres Ceaușescu denunță Pactul Molotov-Ribbentrop și cere anularea consecințelor acestuia.
+
+Prima tentativă de organizare a unor proteste ar fi trebuit să se materializeze la Iași, în 14 decembrie 1989, dar manifestația, ce ar fi urmat să se desfășoare în Piața Unirii, este dejucată de autoritățile comuniste.[106] O tentativă a regimului de a-l evacua pe pastorul reformat maghiar László Tőkés din locuința parohială pe care o ocupa de drept la Timișoara, pe motiv că acesta ar fi fost mutat la o altă parohie, întâmpină rezistență din partea enoriașilor, care înconjoară casa parohială într-o demonstrație de sprijin. Acestora li se alătură și români, iar demonstrația capătă în scurtă vreme un caracter mai larg, de protest împotriva regimului comunist. Trupe ale armatei, miliției și Securității apar la fața locului la 17 decembrie 1989 și deschid focul asupra manifestanților.
+
+La 18 decembrie 1989, Ceaușescu pleacă într-o vizită oficială în Iran, lăsându-i soției sale, Elena, și altor colaboratori apropiați, misiunea de a înăbuși revolta de la Timișoara. Revolta continuă să ia amploare. După revenirea sa în țară, la 20 decembrie 1989, Ceaușescu ține o cuvântare televizată dintr-un studio de televiziune amenajat în incinta clădirii CC al PCR, în care califică evenimentele de la Timișoara drept o încercare din afară de imixtiune în afacerile interne și de subminare a suveranității României. Până la cuvântarea lui Ceaușescu, mediile oficiale de informare evită cu strictețe orice referință la evenimentele care se derulau în Timișoara, singurele surse de informare fiind posturile de radio din afara granițelor țării, precum Radio Europa Liberă și Vocea Americii. O „adunare populară” în sprijinul regimului este organizată pentru ziua următoare, 21 decembrie, în fața sediului CC al PCR, într-un loc care, în urma evenimentelor acelei zile, poartă azi numele de Piața Revoluției. Demonstrația degenerează în mișcare de răsturnare a regimului. Soții Ceaușescu, surprinși de această turnură a lucrurilor, se dovedesc incapabili de a păstra controlul asupra maselor. Populația capitalei se adună în Piața Revoluției, unde se confruntă cu unități ale miliției și armatei. Din păcate, raportul de forțe înclină în favoarea forțelor de represiune, bine reprezentate numeric și bine înarmate, care până la miezul nopții reușesc să degajeze piața, omorând zeci și arestând sute de protestatari.
+
+Cu toată întreruperea transmisiunii televizate a demonstrației din 21 decembrie, reacția ineptă și neajutorată a lui Ceaușescu nu scapă neobservată de telespectatorii din întreaga țară. Până în dimineața zilei de 22 decembrie 1989, protestele se răspândiseră deja în toate marile orașe ale României. Moartea în condiții suspecte a ministrului apărării, generalul Vasile Milea, este anunțată în 22 decembrie de către posturile naționale de radio și televiziune. Imediat după acest anunț, o ședință extraordinară a comitetului politic executiv al PCR are loc, sub conducerea lui Ceaușescu, care cu acest prilej anunță că preia comanda armatei. Ceaușescu mai face o încercare disperată de a se adresa mulțimii adunate în fața sediului CC, dar fără succes. Protestatarii forțează ușile și pătrund în sediul CC, iar soților Ceaușescu nu le rămâne decât opțiunea de a fugi cu un elicopter care îi aștepta pe acoperișul clădirii CC.
+Soții Ceaușescu au fost condamnați printr-un proces-spectacol ținut în pur stil stalinist cu verdict trasat dinainte de Victor Atanasie Stănculescu și sacii de învelit cadavre aduși dinainte[108] la pedeapsa capitală și confiscarea totală a averii pentru săvârșirea următoarelor infracțiuni:
+
+- Genocid, prevăzut de articolul 357, aliniat 1, literele a-c, Cod Penal;
+
+- Subminarea puterii de stat, prevăzut de articolul 162, aliniat 1, Cod Penal;
+
+- Acte de diversiune, prevăzut de articolul 163 Cod Penal;
+
+- Subminarea economiei naționale, prevăzut de articolul 165, aliniat 2, Cod Penal, toate cu aplicarea articolelor 33-34 și 41, aliniat 2, Cod Penal."
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+
+    </LinearLayout>
+
+</ScrollView>

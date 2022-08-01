@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3D5E3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+
+        <Button
+            android:id="@+id/andra"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#BD8577"
+            android:text="Andra Irina Măruță"
+            android:textColor="#000000" />
+
+        <Button
+            android:id="@+id/bittman"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#BD8577"
+            android:text="Dan Bittman"
+            android:textColor="#000000" />
+
+        <Button
+            android:id="@+id/chirila"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#BD8577"
+            android:text="Tudor Chirilă"
+            android:textColor="#000000" />
+
+        <Button
+            android:id="@+id/delia"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#BD8577"
+            android:text="Delia Matache"
+            android:textColor="#000000" />
+
+    </LinearLayout>
+
+</ScrollView>

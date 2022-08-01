@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3D5E3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="349dp"
+            android:src="@drawable/creanga" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ion Creangă (n. 1 martie sau 10 iunie 1837, Humulești – d. 31 decembrie 1889, Iași) a fost un scriitor român. Recunoscut datorită măiestriei basmelor, poveștilor și povestirilor sale, Ion Creangă este considerat a fi unul dintre clasicii literaturii române mai ales datorită operei sale autobiografice Amintiri din copilărie.
+Data nașterii lui Ion Creangă este incertă. El însuși afirmă în Fragment de biografie că s-ar fi născut la 1 martie 1837. O altă variantă o reprezintă data de 10 iunie 1839, conform unei mitrici (condici) de nou-născuți din Humulești, publicată de Gh. Ungureanu.
+
+Creangă a mai avut încă șapte frați și surori: Zahei, Maria, Ecaterina, Ileana, Teodor, Vasile și Petre. Ultimii trei au murit în copilărie, iar Zahei, Maria și Ileana în 1919.
+
+Tinerețea lui Creangă este bine cunoscută publicului larg prin prisma operei sale capitale Amintiri din copilărie. În 1847 începe școala de pe lângă biserica din satul natal. Fiu de țăran, este pregătit mai întâi de dascălul din sat, după care mama sa îl încredințează bunicului matern (“tatăl mamei, bunicu-meu David Creangă din Pipirig”), David Creangă, care-l duce pe valea Bistriței, la Broșteni, unde continuă școala.[6] În 1853 este înscris la Școala Domnească de la Târgu Neamț sub numele Ștefănescu Ion, unde îl are ca profesor pe părintele Isaia Teodorescu (Popa Duhu). După dorința mamei, care voia să-l facă preot, este înscris la Școala catihetică din Fălticeni („fabrica de popi”). Aici apare sub numele de Ion Creangă, nume pe care l-a păstrat tot restul vieții. După desființarea școlii din Fălticeni, este silit să plece la Iași, absolvind cursul inferior al Seminarului teologic „Veniamin Costachi” de la Socola.
+
+Din 1855 până în 1859 urmează cursurile seminarului, iar apoi, luându-și atestatul, revine în satul natal. Se însoară mai târziu la Iași cu Ileana, fiica preotului Ioan Grigoriu de la biserica Patruzeci de sfinți din Iași, devenind diacon al acesteia (26 decembrie 1859).
+La 19 decembrie 1860 se naște fiul său Constantin.
+În 1864, Creangă intră la Școala preparandală vasiliană de la Trei Ierarhi, unde l-a avut profesor pe Titu Maiorescu. Acesta îl aprecia foarte mult și l-a numit învățător la Școala primară nr. 1 din Iași.
+După ce timp de 12 ani este dascăl și diacon la diferite biserici din Iași, este exclus definitiv din rândurile clerului (10 octombrie 1872), deoarece și-a părăsit nevasta, a tras cu pușca în ciorile care murdăreau Biserica Golia și s-a tuns ca un mirean, lucruri considerate incompatibile cu statutul de diacon. (În 1993, el a fost reprimit post-mortem în rândurile clerului). Ca urmare a excluderii din cler, ministrul Tell îl destituie și din postul de institutor, însă venirea lui Titu Maiorescu la minister contribuie la renumirea sa pe acest post. A colaborat la elaborarea a patru manuale școlare, între care și un „Abecedar” (1868).
+În 1873 se încheie procesul său de divorț, copilul său de 12 ani fiindu-i dat în îngrijire. A căutat o casă în care să se mute, alegând o locuință în mahalaua Țicău (bojdeuca).
+În 1875, îl cunoaște pe Mihai Eminescu, atunci revizor școlar la Iași și Vaslui, cu care se împrietenește. Între 1875 și 1883, la îndemnul poetului, scrie cele mai importante opere ale sale.
+Între 1883 și 1889 a fost bolnav de epilepsie și a suferit foarte mult la aflarea bolii și apoi a decesului lui Eminescu, și al Veronicăi Micle.
+Ion Creangă moare pe data de 31 decembrie 1889, în casa sa din cartierul Țicău. Este înmormântat la 2 ianuarie 1890 la cimitirul Eternitatea din Iași."
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+
+    </LinearLayout>
+
+</ScrollView>

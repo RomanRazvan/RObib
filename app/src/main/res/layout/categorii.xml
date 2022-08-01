@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3D5E3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="55dp"
+            android:text="Categorii"
+            android:textColor="#000000"
+            android:textSize="36sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Button
+            android:id="@+id/sportivi"
+            android:layout_width="277dp"
+            android:layout_height="58dp"
+            android:layout_marginStart="69dp"
+            android:layout_marginTop="29dp"
+            android:backgroundTint="#BD8577"
+            android:text="sportivi"
+            android:textColor="#000000"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+        <Button
+            android:id="@+id/domnitori"
+            android:layout_width="277dp"
+            android:layout_height="58dp"
+            android:layout_marginStart="69dp"
+            android:layout_marginTop="29dp"
+            android:backgroundTint="#BD8577"
+            android:text="domnitori"
+            android:textColor="#000000"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/sportivi" />
+
+        <Button
+            android:id="@+id/presedinti"
+            android:layout_width="277dp"
+            android:layout_height="58dp"
+            android:layout_marginStart="69dp"
+            android:layout_marginTop="29dp"
+            android:backgroundTint="#BD8577"
+            android:text="presedinti"
+            android:textColor="#000000"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/actori" />
+
+
+        <Button
+            android:id="@+id/muzica"
+            android:layout_width="277dp"
+            android:layout_height="58dp"
+            android:layout_marginStart="69dp"
+            android:layout_marginTop="29dp"
+            android:backgroundTint="#BD8577"
+            android:text="muzica"
+            android:textColor="#000000"
+            app:iconTint="#FFFFFF"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/button6" />
+
+        <Button
+            android:id="@+id/scriitori"
+            android:layout_width="277dp"
+            android:layout_height="58dp"
+            android:layout_marginStart="69dp"
+            android:layout_marginTop="29dp"
+            android:backgroundTint="#BD8577"
+            android:text="scriitori"
+            android:textColor="#000000"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/muzica" />
+
+        <Button
+            android:id="@+id/actori"
+            android:layout_width="277dp"
+            android:layout_height="58dp"
+            android:layout_marginStart="69dp"
+            android:layout_marginTop="29dp"
+            android:backgroundTint="#BD8577"
+            android:text="actori"
+            android:textColor="#000000"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/domnitori" />
+
+
+        <Button
+            android:id="@+id/altele"
+            android:layout_width="277dp"
+            android:layout_height="58dp"
+            android:layout_marginStart="69dp"
+            android:layout_marginTop="29dp"
+            android:backgroundTint="#BD8577"
+            android:text="alte personalitati importante"
+            android:textColor="#000000"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/scriitori" />
+
+        <Button
+            android:id="@+id/adaugate"
+            android:layout_width="277dp"
+            android:layout_height="58dp"
+            android:layout_marginStart="69dp"
+            android:layout_marginTop="29dp"
+            android:backgroundTint="#BD8577"
+            android:text="Adaugate"
+            android:textColor="#000000"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/scriitori" />
+
+
+    </LinearLayout>
+</ScrollView>
+
+

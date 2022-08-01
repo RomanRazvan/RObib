@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3D5E3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="349dp"
+            android:src="@drawable/cuza" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Alexandru Ioan Cuza (sau Alexandru Ioan I; n. 20 martie/1 aprilie 1820, Bârlad, Tutova, Moldova –d. 3 mai 1873, Heidelberg, Imperiul German) a fost primul domnitor al Principatelor Unite și al statului național România. Prin alegerea sa ca domn al Moldovei, la 5 ianuarie 1859, și al Țării Românești, la 24 ianuarie 1859, a fost înfăptuită Unirea celor două principate.
+
+Ales domnitor, Cuza a dus o susținută activitate politică și diplomatică pentru recunoașterea Unirii Moldovei și Țării Românești de către Puterea suzerană (Imperiul Otoman) și Puterile Garante și apoi pentru desăvârșirea Unirii Principatelor Române prin înfăptuirea unității constituționale și administrative. Aceasta s-a realizat în ianuarie 1862, când Moldova și Țara Românească au format statul român unitar modern, adoptând oficial numele de România, cu capitala la București, cu o singură adunare și un singur guvern.
+
+În anul 1866, o largă coaliție a partidelor vremii, cunoscută sub denumirea de Monstruoasa Coaliție din cauza orientărilor politice diferite ale membrilor săi, l-au forțat pe Alexandru Ioan Cuza să abdice.
+După Convenția de la Paris din 1858, marile puteri au lăsat guvernul fiecărui principat român în grija unei comisii provizorii, formate din trei caimacami, până la alegerea domnitorilor. Principala atribuție a comisiilor era aceea de a supraveghea alegerea noilor adunări elective. Campania electorală din Moldova a dus la alegerea unei adunări favorabile unirii cu Țara Românească. Unioniștii moldoveni au putut impune cu ușurință candidatura la domnie a colonelului Alexandru Ioan Cuza, care a fost ales domn cu unanimitate de voturi la 5/17 ianuarie 1859. Ideea alegerii domnului moldovean și la București a fost oficial sugerată muntenilor de către delegația Moldovei, care mergea spre Constantinopol pentru a anunța rezultatul alegerii de la Iași. În Țara Românească, adunarea electivă a fost dominată de conservatori, care erau însă scindați. Neputându-se pune de acord asupra unui candidat propriu, conservatorii munteni au sfârșit prin a se ralia candidatului Partidei Naționale care a fost ales la 24 ianuarie/5 februarie 1859, domn al Țării Românești. Astfel, românii au realizat de facto unirea, punând la 24 ianuarie 1859, bazele statului național modern român. Sprijinul lui Napoleon al III-lea a fost decisiv pentru dezarmarea opoziției Turciei și a Austriei față de dubla alegere, astfel că la 1/13 aprilie 1859 Conferința de la Paris a puterilor garante dădea recunoașterea oficială a faptului împlinit de la 24 ianuarie 1859. Turcia l-a recunoscut pe Alexandru Ioan Cuza ca domnitor al Principatelor în 1861.
+
+Conform deciziei Convenției de la Paris, la 15 mai 1859 este înființată Comisia Centrală la Focșani, ce avea ca scop redactarea primului proiect de Constituție din istoria modernă a României și realizarea altor proiecte de unificare legislativă a Principatelor. Proiectul de Constituție nu a fost aprobat însă de domnitorul Cuza, Comisia Centrală din Focșani fiind desființată în februarie 1862.
+Regimul personal instituit de Cuza după 2 mai 1864 a provocat nemulțumirea liberalilor radicali, care ulterior au făcut cartel cu conservatorii; acest fapt a slăbit pozițiile domnitorului și a animat activitatea monstruoasei coaliții (denumire promovată în epocă de presa favorabilă lui Cuza), hotărâtă să-l înlăture. Complotiștii au reușit să-și realizeze planurile atrăgând de partea lor o fracțiune a armatei (colonelul C. Haralambie, maiorul D. Lecca ș.a.), și l-au constrâns pe domnitor să abdice în noaptea de 10/22–11/23 februarie 1866. La aceasta a contribuit însuși Al. I. Cuza, care nu numai că nu a luat măsuri în privința factorilor reacționari, ci, într-un discurs, se arăta dispus să renunțe la tron în favoarea unui principe străin precum prevedea una din dorințele divanelor ad-hoc din 1857 (fapt susținut și de o scrisoare adresată unui diplomat străin).
+
+Pe actul iscălit de Cuza scria: „Noi, Alexandru Ioan I, conform dorinței națiunii întregi și angajamentului ce am luat la suirea pe Tron, depun astăzi,11 februarie 1866, cârma guvernului în mâna unei Locotenențe Domnești și a Ministrului ales de popor.“
+
+Două zile mai târziu, Cuza - împreună cu soția, amanta și cei doi fii - a părăsit Bucureștiul spre Brașov."
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+
+    </LinearLayout>
+
+</ScrollView>

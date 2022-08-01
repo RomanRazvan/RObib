@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3D5E3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="349dp"
+            android:src="@drawable/chirila" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tudor Chirilă (n. 28 mai 1974, București) este un actor, muzician, compozitor și producător român. A fost solistul formației Vama Veche, apoi a fondat formația Vama. Ca actor, a jucat în numeroase filme de scurt și lung-metraj și a interpretat roluri de referință în spectacolele de teatru ale unora dintre cei mai importanți regizori români.
+
+În 2012, a publicat prima sa carte, “Exerciții de echilibru”, care a reunit o selecție a celor mai bune texte de pe blogul personal: www.tudorchirila.blogspot.com.
+
+În 2014, a devenit antrenor la Vocea României, alături de Loredana Groza, Smiley și Marius Moga. De-a lungul timpului, Tudor Chirilă s-a implicat în numeroase campanii sociale. În 2005, a fost inițiatorul campaniei “Live pentru viață”, prin care s-au strâns donații pentru sinistrați.
+
+A susținut campania de strângere de fonduri pentru copiii bolnavi de cancer  “Nu mă ignora”, inițiată de Asociația Salvează Vieți. Alături de ”Agenția de Vise”, compania sa de management și booking artistic, a derulat foarte multe proiecte cu impact social și cultural, printre care “Chirilă în licee” - turneu de mentorship în liceele din București, “Cruciada Culturii”, “Premiile Ioan Chirilă” etc."
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+
+    </LinearLayout>
+
+</ScrollView>

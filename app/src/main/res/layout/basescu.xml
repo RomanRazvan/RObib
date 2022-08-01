@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3D5E3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="349dp"
+            android:src="@drawable/basescu" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Traian Băsescu (n. 4 noiembrie 1951, Basarabi, Constanța, România) este un politician român, fost președinte al României între 2004 și 2014. Anterior, din iunie 2000 până în decembrie 2004, a fost primar general al municipiului București, ales din partea PD.
+
+În 2001 a câștigat în cursul alegerilor interne președinția Partidului Democrat, înlocuindu-l pe Petre Roman. A fost copreședinte al Alianței Dreptate și Adevăr, formată din PNL și PD în 2003. În urma retragerii lui Theodor Stolojan (PNL) din cursă, Traian Băsescu (PD) a devenit candidatul Alianței DA pentru președinția României.
+
+La alegerile prezidențiale din 2009 a fost reales președinte al României pentru un mandat de 5 ani, învingându-l pe Mircea Geoană (PSD).
+
+La 1 ianuarie 2007, în timpul mandatului său de președinte, România a aderat la Uniunea Europeană.
+La alegerile prezidențiale din decembrie 2004, Traian Băsescu a reușit să îl învingă pe Adrian Năstase în al doilea tur de scrutin, după ce în primul s-a clasat de pe a doua poziție. Pe 21 decembrie 2004 a depus jurământul în fața Camerelor Reunite ale Parlamentului României.
+La alegerile prezidențiale din 2009 a fost reales președinte al României pentru un nou mandat de 5 ani, învingându-l pe Mircea Geoană (PSD). Pe 21 decembrie 2009 a depus jurământul în fața Camerelor Reunite ale Parlamentului României.
+
+Mandatul lui Traian Băsescu se termină pe 21 decembrie 2014."
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+
+    </LinearLayout>
+
+</ScrollView>

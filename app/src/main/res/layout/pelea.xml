@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3D5E3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="349dp"
+            android:src="@drawable/pelea" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Amza Pellea (n. 7 aprilie 1931, Băilești, Dolj – d. 12 decembrie 1983, București) a fost un actor român de film, radio, teatru, televiziune și voce. Printre alte roluri memorabile, Amza Pellea fost creatorul și interpretul personajului Nea Mărin, care i-a relevat atât de bine disponibilitățile sale pentru comedie. Totodată, a interpretat unele figuri celebre din istoria României, precum Decebal sau Mihai Viteazul.
+Amza Pellea s-a născut la Băilești, într-o familie cu cinci copii, iar tatăl său s-a numit tot Amza Pellea și a fost directorul cooperativei „Munca Noastră” din Băilești în anul 1933. A absolvit cursurile Colegiului Național Carol I din Craiova, și Școala tehnică de electrotehnică din Craiova.
+
+Un reprezentant al Promoției de aur a teatrului românesc, Amza Pellea a jucat la Teatrul Național din Craiova, Teatrul Mic, Teatrul Nottara, Teatrul de Comedie și Teatrul Național din București, unde s–a impus ca unul dintre actorii cei mai dotați ai scenei românești. A fost profesor la IATC.
+Pe scena craioveană realizează, în perioada stagiaturii de trei ani (1957-1959), nu mai puțin de 14 roluri, între care Jack Worthing (Ce înseamnă să fii onest de Oscar Wilde), Vedernikov (Ani de pribegie de Aleksei Arbuzov), vlădica Ilarion (Tudor din Vladimiri de Mihnea Gheorghiu), Comandantul vasului (Tragedia optimistă de Vsevolod Visnevski), Bepe (Galcevile din Chioggia de Carlo Goldoni), Horatio (Hamlet de Shakespeare), Colonelul Dobre (Ecaterina Teodoroiu de Nicolae Tăutu), Otto Katz (Soldatul Svejk de Jaroslav Hašek), Esteban (Fântâna turmelor de Lope de Vega).
+Pe scena Teatrului de Comedie creează alte personaje, printre care Brettschneider (Svejk în al doilea război mondial de Brecht - 1962), Pietro (Umbra de Evghenii Şvarț - 1963), Manole (Somnoroasa aventură de Teodor Mazilu - 1964), Subcomisarul (Capul de rățoi de G. Ciprian - 1966), Platonov (Un Hamlet de provincie de Cehov - 1967), Voievodul Basarab (Croitorii cei mari din Valahia de Al. T. Popescu - 1969), Noah (Arca bunei speranțe de I.D. Sîrbu - 1970), Hrisanide (Interesul general de Aurel Baranga- 1972), Hickok (Buffalo Bill și indienii de A. Kopit - 1973) și inginerul din Nic Nic de Anca Bursan și Gheorghe Panco.
+
+Pe scena Teatrului Național din București dă viață lui Petre Dinoiu (Comoara din deal de Corneliu Marcu - 1977) și lui Vlad Țepeș (A treia țeapă de Marin Sorescu - 1979).
+
+Ultimul rol creat la teatru îl readuce pe scena Teatrului de Comedie, realizând - în regia lui Gheorghe Harag - personajul bătrânului moșier Muromski în Procesul de Suhovo-Kobilin - 1983.
+A fost căsătorit timp de 25 de ani, din 1958 până la moartea sa în 1983, cu Domnica Mihaela din familia Policrat din Craiova. Este tatăl actriței Oana Pellea.
+
+A decedat pe 12 decembrie 1983 la București, în vârstă de 52 de ani. Este înmormântat la cimitirul Bellu.
+Fundația Enciclopedică „Amza Pellea” a realizat un film documentar numit „Douăzeci de ani fără Amza”."
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+
+    </LinearLayout>
+
+</ScrollView>

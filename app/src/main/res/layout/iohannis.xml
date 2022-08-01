@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3D5E3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="349dp"
+            android:src="@drawable/iohannis" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Klaus Werner Iohannis (ortografiat în germană Johannis, n. 13 iunie 1959, Sibiu, România) este un politician român de etnie germană, care din 21 decembrie 2014 ocupă funcția de președinte al României.
+
+Iohannis a fost profesor de fizică și inspector școlar înainte de a deveni primar al municipiului Sibiu în anul 2000, funcție în care a fost reales în 2004, 2008 și 2012, de fiecare dată din partea Forumului Democrat al Germanilor din România. În 2007 Sibiul a fost Capitală Culturală Europeană, lui Iohannis fiindu-i atribuit meritul de fi modernizat infrastructura și pus în valoare potențialul economic și turistic al orașului.
+
+În 2009, după căderea primului guvern Emil Boc, Iohannis a fost propus de către Partidul Național Liberal (PNL) și Partidul Social Democrat (PSD) pentru funcția de premier, însă președintele Traian Băsescu a refuzat să-l nominalizeze.
+
+În 2013 Iohannis a devenit membru al PNL, dobândind funcția de prim-vicepreședinte, iar pe 28 iunie 2014 a devenit președintele partidului. În scurtul său mandat de președinte al partidului, a format o alianță cu Partidul Democrat Liberal (PDL) și a pus bazele unei viitoare fuziuni între cele două partide. Alianța, denumită Alianța Creștin Liberală (ACL), l-a promovat drept candidat la alegerile prezidențiale din 2014, pe care le-a câștigat în al doilea tur de scrutin, în care a obținut 54,43% din voturi, învingându-l pe candidatul PSD, prim-ministrul în funcție Victor Ponta.
+
+La 24 noiembrie 2019, a câștigat în al doilea tur de scrutin, în care a obținut peste 66,09% din voturi, împotriva candidatei PSD Viorica Dăncilă"
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+
+    </LinearLayout>
+
+</ScrollView>

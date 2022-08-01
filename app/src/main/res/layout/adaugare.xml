@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3D5E3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageButton
+            android:id="@+id/imageButton"
+            android:layout_width="match_parent"
+            android:layout_height="349dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/adpoza"
+            android:background="#F3D5E3"/>
+
+        <EditText
+            android:id="@+id/Nume"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="Nume" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <EditText
+                android:id="@+id/Despre"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Despre"
+                android:background="#F3D5E3"/>
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <Button
+            android:id="@+id/altele"
+            android:layout_width="277dp"
+            android:layout_height="58dp"
+            android:layout_marginStart="69dp"
+            android:layout_marginTop="29dp"
+            android:backgroundTint="#BD8577"
+            android:text="Postează"
+            android:textColor="#000000" />
+
+
+    </LinearLayout>
+
+</ScrollView>

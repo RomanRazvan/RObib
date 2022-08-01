@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3D5E3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="349dp"
+            android:src="@drawable/delia" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Delia Matache (n. 7 februarie 1982, București, Republica Socialistă România), cunoscută mai bine sub numele de scenă Delia, este o cântăreață, compozitoare, dansatoare, vedetă de televiziune și jurată în cadrul competiției muzicale internaționale X Factor România și a emisiunii iUmor.
+
+În perioada 1999-2003 a făcut parte din formația N&amp;D, alături de care a scos 4 albume, astfel cunoscând succesul la nivel național. După 2003, în cariera solo, Delia a mai lansat alte 3 albume. În prezent este jurat în cadrul “X Factor”, emisiune difuzată de postul de televiziune Antena 1.
+
+În anul 2015, a lansat albumul de studio Pe aripi de vânt, album ce poartă numele hit-ului care a fost #1 pentru 21 de săptămâni în topul “Media Forest”. În martie 2015, Delia susține primul concert la Sala Palatului, înregistrând un real succes cu un concert cu toate locurile vândute. În cadrul X Factor, artista este cel mai longeviv jurat, patru ani consecutivi, dar și singurul jurat cu studii muzicale. Mai multe din piesele sale devin hituri în 2015, Delia fiind printre cele mai importante femei din industria muzicală și showbiz-ul românesc."
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+
+    </LinearLayout>
+
+</ScrollView>

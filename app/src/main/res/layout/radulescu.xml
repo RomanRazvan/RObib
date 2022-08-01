@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3D5E3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="349dp"
+            android:src="@drawable/radulescu" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Dem Rădulescu (n. 21 septembrie 1931, Râmnicu Vâlcea – d. 17 septembrie 2000, București[2]) a fost un actor de comedie român de teatru, film și televiziune, profesor la Universitatea Națională de Artă Teatrală și Cinematografică „I. L. Caragiale” din București.
+S-a născut la Râmnicu Vâlcea într-o familie de negustori. După terminarea liceului la Râmnicu Vâlcea, „Bibanul” (poreclă primită în liceu) a trebuit să aleagă între sportul de performanță și actorie. El a obținut chiar o stea de aur, la un campionat de amatori, la Râmnicu Vâlcea; a luptat în ring la categoria semi-mijlocie. A debutat ca amator la vârsta de 17 ani, la un bal organizat de fanfara gării.
+
+În 1956, a câștigat premiul I pentru interpretare cu piesa Steaguri pe turnuri (îl interpreta pe „banditul” Rijikov), la un concurs pentru tineri actori. A fost remarcat de Sică Alexandrescu; practic acesta a fost debutul carierei sale.
+
+A fost prieten cu Ion Cojar și Liviu Ciulei; cu ultimul a colaborat pentru Farfuridi din „O scrisoare pierdută”, unde a avut colegi de excepție: Victor Rebengiuc, Mariana Mihuț, Petre Gheorghiu, Ștefan Bănică, Mircea Diaconu, Octavian Cotescu, Aurel Cioranu și Fory Etterle. Liviu Ciulei l-a numit „un actor de geniu”.
+
+A fost căsătorit cu Paula Rădulescu -actriță și balerină la Teatrul de Revistă Constantin Tănase-până în prezent. A fost căsătorit cu actrița Adriana Șchiopu (Mioara Popovici din „Vine poliția!”, Lucreția din „Băieți Buni”) cu care are o fiică născută la 14 octombrie 1986, Irina Rădulescu, aceasta călcând pe urmele părinților săi, fiind actriță la Teatrul Mic din 2008.
+
+S-a stins din viață la București în urma unui infarct, la 17 septembrie 2000.
+
+Este înmormântat la cimitirul Bellu.
+A fost distins cu Ordinul Meritul Cultural clasa a IV-a (1967) „pentru merite deosebite în domeniul artei dramatice”.
+
+Dem Rădulescu a fost recompensat post-mortem cu titlul de cetățean de onoare al municipiului Râmnicu Vâlcea.
+
+De Ziua Mondială a Teatrului din 2016, Dem Rădulescu a primit postum o stea pe Aleea Celebrităților din Piața Timpului (Cocor) și Placheta Orașului București, în semn de recunoaștere și prețuire pentru întreaga sa activitate în domeniul teatrului și filmului."
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+
+    </LinearLayout>
+
+</ScrollView>

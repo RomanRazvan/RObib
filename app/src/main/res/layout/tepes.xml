@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3D5E3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="349dp"
+            android:src="@drawable/tepes" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Vlad Țepeș (n. 1431,[3] Sighișoara, Regatul Ungariei – d. 14 decembrie 1476, București, Țara Românească), denumit și Vlad Drăculea (sau Dracula, de către străini), a domnit în Țara Românească în anii 1448, 1456-1462 și 1476.
+În iarna anului 1436, Vlad Dracul a devenit domn al Țării Românești și s-a stabilit la Curtea domnească din Târgoviște. Vlad Drăculea și-a urmat tatăl și a trăit acolo șase ani. În 1442, din motive politice, el și fratele său mai tânăr, Radu cel Frumos, au fost ceruți ca ostatici de către sultanul Murad al II-lea; Vlad al III-lea a fost ostatic până în 1448, iar fratele său până în 1462. Această perioadă de captivitate a jucat un rol important în formarea și ascensiunea la putere a lui Vlad. Turcii l-au eliberat, în 1447, după moartea tatălui său - asasinat la comanda lui Vladislav al II-lea, rival la tronul Țării Românești. Tot atunci, Vlad a aflat și de moartea fratelui său mai mare, Mircea, torturat și îngropat de viu de boierii din Târgoviște.
+
+La vârsta de 17 ani, susținut de un corp de cavalerie turcească și de un contingent de trupe împrumutate lui de pașa Mustafa Hassan, Vlad Drăculea a luat pentru prima dată domnia Țării Românești. Dar, două luni mai târziu, a fost înfrânt de Vladislav al II-lea, care și-a recăpătat tronul. Pentru a-și asigura a doua și cea mai lungă domnie, Vlad al III-lea a trebuit să aștepte până în 20 august 1456, când a reușit să-și ucidă dușmanul de moarte.
+
+Primul act important de răzbunare a fost indreptat împotriva boierilor din Târgoviște, vinovați de moartea tatălui și a fratelui său. În duminica de Paști a anului 1459, el a arestat toate familiile de boieri care participaseră la petrecerea princiară. Cei mai bătrâni au fost trași în țeapă, iar ceilalți au fost forțați să străbată pe jos drumul de o sută de kilometri din capitală până la Poenari, unde au fost puși să construiască o fortăreață pe ruinele unui avanpost vechi cu vedere la râul Argeș.
+
+Vlad Țepeș a ajuns curând faimos din cauza metodelor sale brutale de pedepsire. Conform detractorilor sași din Transilvania, el ordona deseori ca osândiții să fie jupuiți de piele, fierți, decapitați, orbiți, strangulați, spânzurați, arși, fripți, ciopârțiți, bătuți în cuie, îngropați de vii etc. De asemenea, punea să li se taie victimelor nasul, urechile, organele genitale și limba. Însă supliciul favorit era trasul în țeapă, de la care provine porecla Țepeș, cel care trage în țeapă. Această formă de execuție a folosit-o în anii 1457, 1459 și 1460 contra negustorilor transilvăneni care nu respectaseră legile sale comerciale. Incursiunile pe care le făcea împotriva sașilor din Transilvania erau în același timp și acte de protecționism menite să promoveze activitățile comerciale din Țara Românească. În plus, în acea perioadă era ceva obișnuit ca pretendenții la tronul Țării Românești să găsească sprijin în Transilvania, unde așteptau momentul potrivit pentru a acționa.
+În Enciclopedia Britanică se menționează că Vlad Țepeș nu a inventat această metodă de tortură și execuție, fiind prescrisă ca pedeapsă pentru uciderea soției în Codul lui Hammurabi.
+Vlad a fost recunoscut ca domn al Țării Românești pentru a treia oară în 1475, însă s-a bucurat de o perioadă foarte scurtă de domnie. A fost asasinat la sfârșitul lunii decembrie 1476. Corpul său a fost decapitat și capul trimis sultanului, care l-a așezat într-o țeapă, ca dovadă a triumfului asupra lui Vlad Țepeș. S-a emis ipoteza ca „Drăculea” ar fi fost îngropat la Mănăstirea Snagov, pe o insulă din apropierea Bucureștilor. Examinările recente au arătat că „mormântul” lui Țepeș de la mănăstire conține doar câteva oase de cal datate din neolitic și nu rămășițele adevărate ale domnului valah. După opinia reputatului istoric Constantin Rezachevici, mormântul acestuia ar fi pe locul mănăstirii Comana, ctitorie a voievodului."
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+
+    </LinearLayout>
+
+</ScrollView>

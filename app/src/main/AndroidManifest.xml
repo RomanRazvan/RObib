@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.robib">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.RObib">
+        <activity android:name=".RetriveDataInRecycleView"
+            android:parentActivityName=".adaugareActivity"></activity>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".categoriiActiviy" />
+        <activity android:name=".Sportivi" />
+        <activity android:name=".categorii" />
+        <activity
+            android:name=".categoriiActivity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".sportiviActivity"
+            android:parentActivityName=".categoriiActivity" />
+        <activity
+            android:name=".hagiActivity"
+            android:parentActivityName=".sportiviActivity" />
+        <activity
+            android:name=".popeActivity"
+            android:parentActivityName=".sportiviActivity" />
+        <activity
+            android:name=".comaneciActivity"
+            android:parentActivityName=".sportiviActivity" />
+        <activity
+            android:name=".halepActivity"
+            android:parentActivityName=".sportiviActivity" />
+        <activity
+            android:name=".domnitoriActivity"
+            android:parentActivityName=".categoriiActivity" />
+        <activity
+            android:name=".batranActivity"
+            android:parentActivityName=".domnitoriActivity" />
+        <activity
+            android:name=".cuzaActivity"
+            android:parentActivityName=".domnitoriActivity" />
+        <activity
+            android:name=".viteazulActivity"
+            android:parentActivityName=".domnitoriActivity" />
+        <activity
+            android:name=".tepesActivity"
+            android:parentActivityName=".domnitoriActivity" />
+        <activity
+            android:name=".presedintiActivity"
+            android:parentActivityName=".categoriiActivity" />
+        <activity
+            android:name=".iliescuActivity"
+            android:parentActivityName=".presedintiActivity" />
+        <activity
+            android:name=".iohannisActivity"
+            android:parentActivityName=".presedintiActivity" />
+        <activity
+            android:name=".ceausescuActivity"
+            android:parentActivityName=".presedintiActivity" />
+        <activity
+            android:name=".basescuActivity"
+            android:parentActivityName=".presedintiActivity" />
+        <activity
+            android:name=".andraActivity"
+            android:parentActivityName=".muzicaActivity" />
+        <activity
+            android:name=".muzicaActivity"
+            android:parentActivityName=".categoriiActivity" />
+        <activity
+            android:name=".bittmanActivity"
+            android:parentActivityName=".muzicaActivity" />
+        <activity
+            android:name=".chirilaActivity"
+            android:parentActivityName=".muzicaActivity" />
+        <activity
+            android:name=".deliaActivity"
+            android:parentActivityName=".muzicaActivity" />
+        <activity
+            android:name=".scriitoriActivity"
+            android:parentActivityName=".categoriiActivity" />
+        <activity
+            android:name=".eminescuActivity"
+            android:parentActivityName=".scriitoriActivity" />
+        <activity
+            android:name=".creangaActivity"
+            android:parentActivityName=".scriitoriActivity" />
+        <activity
+            android:name=".blagaActivity"
+            android:parentActivityName=".scriitoriActivity" />
+        <activity
+            android:name=".caragialeActivity"
+            android:parentActivityName=".scriitoriActivity" />
+        <activity
+            android:name=".actoriActivity"
+            android:parentActivityName=".categoriiActivity" />
+        <activity
+            android:name=".caragiuActivity"
+            android:parentActivityName=".actoriActivity" />
+        <activity
+            android:name=".peleaActivity"
+            android:parentActivityName=".actoriActivity" />
+        <activity
+            android:name=".radulescuActivity"
+            android:parentActivityName=".actoriActivity" />
+        <activity
+            android:name=".nicolaescuActivity"
+            android:parentActivityName=".actoriActivity" />
+        <activity
+            android:name=".brancusActivity"
+            android:parentActivityName=".alteleActivity" />
+        <activity
+            android:name=".alteleActivity"
+            android:parentActivityName=".categoriiActivity" />
+        <activity
+            android:name=".parolaActivity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".adaugareActivity"
+            android:parentActivityName=".parolaActivity" />
+    </application>
+
+</manifest>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3D5E3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="349dp"
+            android:src="@drawable/andra" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Alexandra Irina Măruță (n. Alexandra Irina Mihai, la 23 august 1986, Câmpia Turzii) cunoscută mai bine sub numele de scenă Andra, este o vedetă de televiziune și cântăreață română de muzică pop. Primul său disc single, Andra îl lansează în anul 2001, la doar 14 ani, menținându-se pe primele locuri de la debut până în prezent, în cadrul Romanian Top 100.
+
+Începându-și cariera muzicală de la vârsta de 7 ani, aceasta a avut prima sa interpretare la concursul muzical difuzat de TVR, intitulat „Tip Top Minitop” - realizat de Oana Ionescu - în calitate de invitată, interpretând piesa lui Whitney Houston I Will Always Love You. Pe lângă muzica pop, aceasta cânta alternativ și muzică populară, drept pentru care a mers la un concurs intitulat Pe fir de baladă la vârsta de 9 ani, ce avea loc la Târgu Jiu. După ce concursul s-a finalizat, Andra nu a reușit să obțină unul din primele trei locuri, însă a câștigat o mențiune. La vârsta de 11 ani, aceasta a participat la alt concurs intitulat Festivalul Concurs de Interpretare Folclorică Toamna Arieșeană unde de această dată a câștigat primul loc. Pe lângă concursurile de muzică populară aceasta a mers și la concursuri de muzică ușoară, câștigând numeroase premii.
+
+În octombrie 2013, șlagărul Andrei, „K. la Meteo” în colaborare cu What's Up, a fost nominalizat la categoria „Best Romanian Act” la MTV Europe Music Awards.[9] Andra a scos noi hit-uri în aprilie, 2013 „Inevitabil va fi bine”, în decembrie 2013 „Atâta timp cât mă iubești!” cu Marius Moga, în februarie 2014 cu Vunk „Numai la doi”, în iulie 2014, cu Liviu Teodorescu „Așa e dragostea”, în ianuarie 2015, cu Shift „Avioane de hârtie”, în aprilie 2015, cu Proconsul și Ștefan Bănică „Aici cu mine”, în mai 2015 „Falava”, în iunie 2015, „Nebuni în noapte”, în august 2015, „Niciodată nu spune niciodată”, în februarie 2016, „Iubirea schimbă tot” și cel mai recent single, cu David Bisbal, „Without You”, care a reușit să adune în 9 zile de la lansare peste 13 milioane de vizualizări.
+
+        Până în prezent artista a lansat 12 albume, ale căror single-uri s-au bucurat de un real succes atât în țară cât și în străinătate, vânzându-se în peste 500.000 de copii."
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+
+    </LinearLayout>
+
+</ScrollView>
